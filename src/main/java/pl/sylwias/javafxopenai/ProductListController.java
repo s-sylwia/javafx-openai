@@ -14,7 +14,6 @@ public class ProductListController {
 
 
     @FXML
-
     private TextField todoItem;
 
     @FXML
