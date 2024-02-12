@@ -56,5 +56,3 @@ The Recipe Generator App relies on the following libraries and tools:
 
 - JavaFX: The Java library for building rich desktop applications.
 - ChatGPT API: Used for integrating the chat feature and obtaining dynamic responses.
-
-Happy cooking with Recipe Generator App!
